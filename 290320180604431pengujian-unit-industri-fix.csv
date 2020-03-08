@@ -1,0 +1,92 @@
+jenis_kegiatan,detail_jenis_kegiatan,standar_yang_digunakan,tarif_rp
+Kain,Lebar Kain,SNI ISO 22198:2010,50000
+Kain,Tebal kain,SNI ISO 5084:2010,40000
+Kain,Berat kain per meter persegi,SNI ISO 3801:2010,50000
+Kain,Berat Kain per meter linier,SNI ISO 3801:2010,50000
+Kain,Tetal lusi dan pakan,SNI ISO 7211-2:2010,50000
+Kain,Jumlah Wale dan Course,SNI ISO 7211-2:2010,50000
+Kain,Nomor benang lusi dan pakan dalam kain : Tanpa penghilang kanji/resin,SNI ISO 7211-5:2010,75000
+Kain,Nomor benang lusi dan pakan dalam kain : Dengan penghilang kanji/resin,SNI ISO 7211-5:2010,75000
+Kain,Antihan benang lusi dan pakan,SNI ISO 7211-4:2010,50000
+Kain,Anyaman dasar : Polos,SNI ISO 7211-1:2010 ,50000
+Kain,Anyaman dasar : Keper/Satin,SNI ISO 7211-1:2010 ,50000
+Kain,Anyaman dasar : Turunan,SNI ISO 7211-1:2010 ,50000
+Kain,Gintiran dan atihan lusi dan pakan,SNI ISO 7211-4:2010,50000
+Kain,Kekuatan tarik kain arah lusi dan pakan,SNI 08-0276-2009,75000
+Kain,Tahan jebol,SNI ISO 13938-1(E):2010,75000
+Kain,Ketahanan kusut ( Crease Recovery): Sebelum pencucian,SNI ISO 2313:2011,50000
+Kain,Ketahanan kusut ( Crease Recovery): Sesudah pencucian,SNI ISO 2313:2011,50000
+Kain,Kekuatan sobek kain : Cara Elemendorf,SNI ISO 13937-1:2010,50000
+Kain,Kekuatan sobek kain : Cara Lidah,SNI 08-0521-2008,50000
+Kain,Kekuatan sobek kain : Cara Trapesium,SNI 08-1269-1989,40000
+Kain,Kelangsaian (Drape ability),SNI 08-1511-2004,40000
+Kain,Mengkeret lusi dan pakan,SNI ISO 5084:2010,60000
+Kain,Cacat kain tenun per 30 meter,SNI 08-0277-2013,40000
+Kain,Pilling,ASTM,30000
+Kain,Tahan gelincir kain,SNI 08-1271-1989,30000
+Kain,Kekuatan kain,SNI 08-0314-1989,30000
+Kain,Tahan selip pada benang kain,SNI ISO 13936-2 : 2010 dan SNI ISO 13936-3 : 2010,50000
+Kain,Kekutan Tarik Jahitan,SNI ISO 13935-1:2012 dan SNI ISO 13935-2:2012,40000
+Kain,"Perubahan dimensi setelah pencucian : Suhu (40-50) C, 1 Kali","SNI 7728: 2011, SNI ISO 5077: 2011,dan SNI ISO 6330: 2015",60000
+Kain,"Perubahan dimensi setelah pencucian : Suhu (40-50) C,3 Kali","SNI 7728: 2011, SNI ISO 5077: 2011,dan SNI ISO 6330: 2015",180000
+Kain,"Perubahan dimensi setelah pencucian : Suhu (60-70) C, 1 Kali","SNI 7728: 2011, SNI ISO 5077: 2011,dan SNI ISO 6330: 2015",60000
+Kain,"Perubahan dimensi setelah pencucian : Suhu (80-95) C, 1 Kali","SNI 7728: 2011, SNI ISO 5077: 2011,dan SNI ISO 6330: 2015",60000
+Kain,Daya serap terhadap air: Metode tetes,SNI 08-0278:1989,60000
+Kain,Daya serap terhadap air: Metode Keranjang Tanpa pencucian awal,SNI 0404:2013,75000
+Kain,Daya serap terhadap air: Metode Keranjang Dengan pencucian awal,SNI ISO 9865:2013,75000
+Kain,Uji Daya Tolak Air (Bundesmen) Tahan Air,SNI ISO 4920:2010,75000
+Kain,Uji Daya Tolak Air (Bundesmen) Tahan Air : Uji Siram,SNI ISO 811:2013,75000
+Kain,Uji Daya Tolak Air (Bundesmen) Tahan Air : Uji Tekan Hidrostatik,,75000
+Kain,Merserisasi : Kualitatif (Mikroskopik),SNI 08-0300-1989,70000
+Kain,Merserisasi : Kuantitatif (BAN),SNI 08-0263-1989,70000
+Kain,Kadar Lembab (cara pengeringan),SNI 08-0264-2015,70000
+Kain,Identifikasi serat secara kualitatif,,85000
+Kain,Idenifikasi serat secara kuantitatif : Dua jenis serat,SNI ISO 1833:2011,85000
+Kain,Idenifikasi serat secara kuantitatif : Penambahan per jenis serat,SNI 8107:2016,60000
+Kain,Kadar Kanji,,50000
+Kain,Beda warna,,40000
+Kain,Kenampakan kain setelah pencucian berulang- ulang (Durable Press): Pencucian 5 Kali,SNI 08-0298-2009,50000
+Kain,Ketahanan luntur warna terhadap : Pencucian dengan Suhu 40 C,SNI ISO 105:C06:2010,75000
+Kain,Ketahanan luntur warna terhadap : Pencucian dengan Suhu 70 C,SNI ISO 105:C06:2010,75000
+Kain,Ketahanan luntur warna terhadap : Pemutihan dengan chlor,SNI 08-0286-2008,75000
+Kain,Ketahanan luntur warna terhadap : Keringat asam dan basa,SNI ISO 105:E04:2015,75000
+Kain,Ketahanan luntur warna terhadap : Gosokan kering dan basa,SNI ISO 105-X12:2012,75000
+Kain,Ketahanan luntur warna terhadap : Sinar Matahri,SNI ISO 105-B01:2010,75000
+Kain,Ketahanan luntur warna terhadap : Sinar lampu Xenon,SNI ISO 105-B02:2010,90000
+Kain,Ketahanan luntur warna terhadap : Pencucian kering (Dry cleaning),SNI ISO 105-D01:2010,65000
+Kain,Ketahanan luntur warna terhadap : Panas penyetrikaan Kering,SNI ISO 105-X11:2010,60000
+Kain,Ketahanan luntur warna terhadap : Panas penyetrikaan Basah/lembab,SNI ISO 105-X11:2010,60000
+Kain,Ketahanan luntur warna terhadap : Air,SNI ISO 105-E01:2015,60000
+Kain,Identifikasi zat warna pada : Serat selolusa,SNI 08-0621-1989,85000
+Kain,Identifikasi zat warna pada : Serat protein,SNI 08-0987-1989,85000
+Kain,Identifikasi zat warna pada : Serat Poliarnida,SNI 08-0767-1989,85000
+Kain,Identifikasi zat warna pada : Serat Poliester,SNI 08-0519-1989,85000
+Kain,Identifikasi zat warna C44pada : Serat campuran (maks 2 campuran),,85000
+Kain,Uji Kadar Formaldehid,AATCC 112/JIS 109,100000
+Kain,"Ukuran Pakaian Jadi : Dewasa (S,M,L,XL)",SNI 08-3539-2010,45000
+Kain,Ukuran Pakaian Jadi : Anak - anak,SNI 08-0555-2013,45000
+Kain,Mutu Jahitan : Cacat jahitan,SNI 08-2941-1992,35000
+Kain,Mutu Jahitan : Setik per inci (cm),SNI 08-1927-1990,35000
+Kain,Uji Kenampakan jahitan : Pencucian 5 kali,SNI 08-1270-1989,150000
+Benang,Nomor Benang,SNI ISO 17202:2010,50000
+Benang,Anithan / Gitiran,SNI ISO 17202:2010,50000
+Benang,Gintiran dan Antihan,SNI ISO 17202:2010,50000
+Benang,"Kekuatan Benang : Per helai, Metode CRE",SNI 08-0269-1989,40000
+Benang,"Kekuatan Benang : Per lea, Metode CRE",SNI 08-0269-1989,40000
+Benang,Ketidakrataan (USTER),SNI ISO 16549:2010,50000
+Benang,Kenampakan Benang (Grade),SNI 08-0271-1989,40000
+Benang,Panjang benang sampai dengan 2500 meter,SNI 08-0318-1999,50000
+Benang,Keseimbangan Antihan,SNI 08-0318-1999,50000
+Benang,Percobaan Jahit,SNI 08-0318-1999,50000
+Benang,filamen,,40000
+Benang,Kadar lembab (cara pengeringan),SNI 08-0263-1989,40000
+Benang,benang skala laboratorium,Standar Lab,60000
+Benang,Kadar kanji,SNI 8107:2016,60000
+Benang,serat secara kualitatif,SNI 08-0264-2015,85000
+Benang,Penambahan per jenis serat,SNI 08-0264-2015,45000
+Benang,Identifikasi serat secara kuantitatif : Dua jenis serat Cara peralutan,SNI ISO 1833:2011,85000
+Benang,Identifikasi serat secara kuantitatif : Dua jenis serat Cara mekanika,SNI ISO 1833:2011,85000
+Benang,Identifikasi serat secara kuantitatif : Dua jenis serat Cara mikroskopis,SNI ISO 1833:2011,85000
+Benang,Penambahan per jenis serat : Cara peralutan,SNI ISO 1833:2011,50000
+Benang,Penambahan per jenis serat : Cara mekanika,SNI ISO 1833:2011,50000
+Benang,Penambahan per jenis serat : Cara mikroskopis,SNI ISO 1833:2011,50000
